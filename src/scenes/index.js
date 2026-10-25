@@ -1,0 +1,11 @@
+import { SceneA } from "./SceneA";
+import { SceneB } from "./SceneB";
+import { SceneC } from "./SceneC";
+import { SceneD } from "./SceneD";
+import { SceneE } from "./SceneE";
+import { SceneF } from "./SceneF";
+import { SceneG } from "./SceneG";
+import { SceneH } from "./SceneH";
+import { SceneI } from "./SceneI";
+import { SceneJ } from "./SceneJ";
+export const SCENE_COMPONENTS = { A: SceneA, B: SceneB, C: SceneC, D: SceneD, E: SceneE, F: SceneF, G: SceneG, H: SceneH, I: SceneI, J: SceneJ };

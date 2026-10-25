@@ -1,0 +1,17 @@
+{
+ "audio_s": 807.706,
+ "speech_s": 679.8,
+ "threshold_db": 37.8,
+ "speech_segments": 438,
+ "pauses": 437,
+ "sentences": 118,
+ "cues": 224,
+ "shift_mean_s": -6.56,
+ "shift_max_abs_s": 14.54,
+ "cues_shifted_gt1s": 208,
+ "cues_shifted_gt2s": 182,
+ "speech_rate_cv_original": 0.151,
+ "speech_rate_cv_aligned": 0.084,
+ "sentences_rate_off_gt30pct": 0,
+ "worst_sentences": []
+}
